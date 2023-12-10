@@ -1,0 +1,12 @@
+In JavaScript, variables are used to store and manage data in your programs. They allow you to store values and manipulate them throughout the execution of your code. 
+The let keyword is one of the ways to declare variables in JavaScript. Here's how you can use it:
+
+let number = 42; 
+let message = "Hello, World!"; 
+let isTrue = true; 
+let fruits = ['apple', 'banana', 'orange']; 
+let person = {
+  name: 'John',
+  age: 30
+}; 
+
